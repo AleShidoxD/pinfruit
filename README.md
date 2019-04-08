@@ -38,4 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ###colaboradores
 @danielalegunes(dabiela Legunes Velez 
+@AleShidoxD (Alejandro Castro)
 
