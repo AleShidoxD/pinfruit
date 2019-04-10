@@ -40,5 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 @danielalegunes(Daniela Legunes Velez) 
 @AleShidoxD (Alejandro Castro)
 @AlexanderOokami (Jorge Alexander Morales Soto)
-@ (Arturo Ortega Castillo)
+@Arturojr2 (Arturo Ortega Castillo)
 @ (Monica Valeska Armas Ceballos)
