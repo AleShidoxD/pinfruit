@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 @AleShidoxD (Alejandro Castro)
 @AlexanderOokami (Jorge Alexander Morales Soto)
 @Arturojr2 (Arturo Ortega Castillo)
-@ (Monica Valeska Armas Ceballos)
+@Va1eska (Monica Valeska Armas Ceballos)
